@@ -5,4 +5,8 @@ Fadia Resolusi 2022
 - Naik Sepeda
 - Makan Seblak
 - coba lagi
+<<<<<<< HEAD
 - anda beruntung
+=======
+
+>>>>>>> 9703d66133b5f6928575a59c39619c09fa3dfb20
